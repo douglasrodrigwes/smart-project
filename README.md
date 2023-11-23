@@ -49,7 +49,7 @@ $ git clone https://github.com/douglasrodrigwes/smart-project.git
 $ cd smart-project
 
 # Vá para a pasta do projeto
-$ cd movies-lib
+$ cd smart-project
 
 # Instale as dependências
 $ npm install ou npm i
